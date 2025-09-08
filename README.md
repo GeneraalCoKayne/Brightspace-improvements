@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/GeneraalCoKayne/Brightspace-improvements?style=for-the-badge)](https://github.com/GeneraalCoKayne/Brightspace-improvements/releases)[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Compatible-brightgreen?style=for-the-badge&logo=google-chrome)](https://www.tampermonkey.net/)
 
-Een **Tampermonkey-userscript** dat de gebruikservaring van D2L Brightspace verbetert met performance-optimalisaties en handige verbeteringen.
+Een **Tampermonkey-userscript** dat de gebruikservaring van D2L ELO Brightspace verbetert met performance-optimalisaties en handige verbeteringen.
 
 ---
 
