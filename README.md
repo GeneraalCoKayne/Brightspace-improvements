@@ -89,7 +89,7 @@ De polling-intervallen die elke 10ms draaiden, zijn volledig verwijderd en verva
    👉 [Tampermonkey](https://www.tampermonkey.net/)
 
 2. Installeer vervolgens dit script via de GitHub release:  
-   👉 [Brightspace Improvements Script](https://github.com/GeneraalCoKayne/D2L-Brightspace-improvements/releases/download/0.0.1/D2L-Brightspace-improvements-0.0.1.user.js)
+   👉 [Brightspace Improvements Script](https://github.com/GeneraalCoKayne/D2L-Brightspace-improvements/releases/latest/download/D2L-Brightspace-improvements.user.js)
 
 ---
 
