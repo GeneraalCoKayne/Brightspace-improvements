@@ -1,6 +1,6 @@
-# D2L Brightspace Improvements
+# Brightspace Improvements
 
-[![GitHub release](https://img.shields.io/github/v/release/GeneraalCoKayne/D2L-Brightspace-improvements?style=for-the-badge)](https://github.com/GeneraalCoKayne/D2L-Brightspace-improvements/releases)[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Compatible-brightgreen?style=for-the-badge&logo=google-chrome)](https://www.tampermonkey.net/)
+[![GitHub release](https://img.shields.io/github/v/release/GeneraalCoKayne/Brightspace-improvements?style=for-the-badge)](https://github.com/GeneraalCoKayne/Brightspace-improvements/releases)[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Compatible-brightgreen?style=for-the-badge&logo=google-chrome)](https://www.tampermonkey.net/)
 
 Een **Tampermonkey-userscript** dat de gebruikservaring van D2L Brightspace verbetert met performance-optimalisaties en handige verbeteringen.
 
@@ -89,7 +89,7 @@ De polling-intervallen die elke 10ms draaiden, zijn volledig verwijderd en verva
    👉 [Tampermonkey](https://www.tampermonkey.net/)
 
 2. Installeer vervolgens dit script via de GitHub release:  
-   👉 [Brightspace Improvements Script](https://github.com/GeneraalCoKayne/D2L-Brightspace-improvements/releases/latest/download/D2L-Brightspace-improvements.user.js)
+   👉 [Brightspace Improvements Script](https://github.com/GeneraalCoKayne/Brightspace-improvements/releases/latest/download/Brightspace-improvements.user.js)
 
 ---
 
